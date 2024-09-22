@@ -63,6 +63,3 @@ This project demonstrates how interest rates and housing market dynamics are int
  
 # License
 This project is open-source and available under the MIT License.
-
-![image](https://github.com/user-attachments/assets/0ee8ddf3-f0db-483d-8794-2f727c63823e)
-
